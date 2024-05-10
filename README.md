@@ -30,8 +30,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: CHITHRADHEEP R
-Register Number:  2305002003
+Developed by: VASANTH KUMAR V 
+Register Number:  2305002027
 
 
 import numpy as py
@@ -68,8 +68,7 @@ for i in range(n):
 
 ## Output:
 
-![Screenshot 2024-05-07 151312](https://github.com/Chithradheep/Gaussian/assets/155504933/f97c970a-1d71-4d09-b7ea-56ae05ae4b5f)
-![Screenshot 2024-05-07 151349](https://github.com/Chithradheep/Gaussian/assets/155504933/7aa8ff68-4e6b-4c09-b5e1-162c5967561a)
+![WhatsApp Image 2024-05-10 at 11 54 24_ed9ee5f4](https://github.com/vasanth0228/Gaussian/assets/155505264/c76da213-3af6-46e8-b634-deaf994a606e)
 
 
 
